@@ -1,4 +1,8 @@
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="77"/>
+
+</div>
 
 # Java Practice
 
